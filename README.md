@@ -1,75 +1,132 @@
-<h1 align="center">Hi , I'm Mohamed Khaled </h1>
+<h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
 <h3 align="center">AI & Machine Learning Specialist | NLP, Computer Vision & Deep Learning Enthusiast</h3>
 
 <p align="center">
-🔍 Passionate about building intelligent systems that understand and interact with humans through natural language and vision.<br>
-🚀 Always exploring the latest in LLMs, generative AI, and real-world AI deployments.<br>
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Specialist;NLP,+Computer+Vision+%26+Deep+Learning+Enthusiast&font=Fira+Code&center=true&width=500&height=45&color=0AF&vCenter=true&pause=1000&size=22"/>
 </p>
-
-- 📫 Reach me at: **qq11gharipqq11@gmail.com**
 
 ---
 
-### 🌐 Connect with me:
+##  About Me
+
+🔍 **Passionate** about building intelligent systems that understand and interact with humans through natural language and vision  
+🚀 **Always exploring** the latest in LLMs, generative AI, and real-world AI deployments  
+💡 **Dedicated** to creating AI solutions that make a meaningful impact  
+
+---
+
+## 📬 Contact Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/mohamed khaled" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
+  <a href="mailto:qq11gharipqq11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://kaggle.com/mohamed15320!" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="30" />
+  <a href="https://linkedin.com/in/mohamed-khaled" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://fb.com/mohamed khaled" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" />
-  </a>
-  <a href="https://instagram.com/mohamed._.khaled1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" />
-  </a>
-  <a href="https://discord.gg/ghareeb_1_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="30" />
+  <a href="https://kaggle.com/mohamed15320" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🧠 AI & ML Tech Stack
-<p align="left">
-  <!-- Core AI/ML Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+## 🛠️ Tech Stack
 
-  <!-- Backend & Frameworks -->
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
+### 🤖 AI/ML Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+</p>
 
-  <!-- Cloud & Automation -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" />
+### 📊 Data Science
+<p>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-  <!-- Others -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
+### 🖥 Backend & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & Databases
+<p>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
 ---
 
-### 📌 Focus Areas
-- **Machine Learning** (Supervised, Unsupervised, Reinforcement Learning)
-- **Natural Language Processing (NLP)**
-- **Computer Vision**
-- **Deep Learning** (CNNs, RNNs, Transformers)
-- **Large Language Models (LLMs)**
-- **Data Analysis & Visualization**
-- **AI for Healthcare & Assistive Technology**
-- **AI Deployment** (APIs, Docker, Cloud)
+## 🎯 Areas of Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Machine Learning  
+- Supervised & Unsupervised Learning  
+- Reinforcement Learning  
+- Feature Engineering & Model Optimization  
+- Model Deployment  
+
+### 🔬 Deep Learning  
+- CNNs, RNNs, Transformers  
+- GANs & Generative AI  
+
+</td>
+<td width="50%">
+
+### 💬 NLP  
+- LLMs, Text Classification  
+- Sentiment Analysis & NER  
+- Chatbots, Text Generation  
+
+### 👁 Computer Vision  
+- Object Detection & Recognition  
+- Image Segmentation  
+- Medical Imaging  
+
+</td>
+</tr>
+</table>
+
+### 🔧 Specializations  
+- AI in Healthcare  
+- MLOps: CI/CD, Model Serving  
+- Data Engineering & Preprocessing  
+- Research & Optimization  
 
 ---
 
-> 🧠 *“Building AI that makes a difference — one model at a time.”*
+## 🏆 Achievements & Certifications
+
+- 🥇 Kaggle ML Competitions  
+- 📜 Certified in AI, ML & Deep Learning  
+- 🎯 Open Source Contributor  
+- 📊 AI Research Publications  
+
+---
+
+<div align="center">
+
+## 💭 Philosophy
+
+*"Building AI that makes a difference — one model at a time."*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ghreeb1&color=0077B5&style=for-the-badge)](https://github.com/ghreeb1)
+
+</div>
