@@ -7,7 +7,7 @@
 
 ---
 
-##  About Me
+## 🧑‍💻 About Me
 
 🔍 **Passionate** about building intelligent systems that understand and interact with humans through natural language and vision  
 🚀 **Always exploring** the latest in LLMs, generative AI, and real-world AI deployments  
@@ -17,7 +17,7 @@
 
 ## 📬 Contact Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:qq11gharipqq11@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -34,7 +34,7 @@
 ## 🛠️ Tech Stack
 
 ### 🤖 AI/ML Frameworks
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -43,7 +43,7 @@
 </p>
 
 ### 📊 Data Science
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
@@ -52,7 +52,7 @@
 </p>
 
 ### 🖥 Backend & DevOps
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
@@ -61,7 +61,7 @@
 </p>
 
 ### ☁️ Cloud & Databases
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -118,6 +118,12 @@
 - 📜 Certified in AI, ML & Deep Learning  
 - 🎯 Open Source Contributor  
 - 📊 AI Research Publications  
+
+---
+
+<div align="center"> 
+  <img height="300em" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="hello world">  
+</div> 
 
 ---
 
