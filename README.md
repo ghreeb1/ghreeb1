@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
-<h3 align="center">AI & Machine Learning Specialist | NLP, Computer Vision & Deep Learning Enthusiast</h3>
+<h3 align="center">AI & ML Specialist | Generative AI, LLMs & RAG | NLP, CV & Deep Learning | MLOps & Deployment</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Specialist;NLP,+Computer+Vision+%26+Deep+Learning+Enthusiast&font=Fira+Code&center=true&width=500&height=45&color=0AF&vCenter=true&pause=1000&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Specialist;Generative+AI,+LLMs+%26+RAG;NLP,+Computer+Vision+%26+Deep+Learning;MLOps+%26+Model+Deployment&font=Fira+Code&center=true&width=600&height=45&color=0AF&vCenter=true&pause=1000&size=22"/>
 </p>
+
 
 ---
 
