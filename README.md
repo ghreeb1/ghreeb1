@@ -16,17 +16,17 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 <img align="right" alt="AI Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 🔬 **AI & Machine Learning Engineer** passionate about creating intelligent systems that transform ideas into reality
 
-🚀 **Specializing in:**
-- 🤖 Generative AI & Large Language Models
-- 🔗 Retrieval-Augmented Generation (RAG)
-- 💬 Natural Language Processing
-- 👁️ Computer Vision & Deep Learning
+**Specializing in:**
+- Generative AI & Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Natural Language Processing
+- Computer Vision & Deep Learning
 
 ⚡ **Building:** Scalable AI pipelines, conversational agents, and production-ready ML solutions
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:qq11gharipqq11@gmail.com">
@@ -62,7 +62,7 @@
 ## 🛠️ Technology Arsenal
 
 <details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
+<summary><b> AI & Machine Learning</b></summary>
 <br>
 
 <p align="center">
@@ -79,7 +79,7 @@
 </details>
 
 <details open>
-<summary><b>📊 Data Science & Analysis</b></summary>
+<summary><b> Data Science & Analysis</b></summary>
 <br>
 
 <p align="center">
@@ -94,7 +94,7 @@
 </details>
 
 <details open>
-<summary><b>🌐 Backend & Web Frameworks</b></summary>
+<summary><b> Backend & Web Frameworks</b></summary>
 <br>
 
 <p align="center">
@@ -108,7 +108,7 @@
 </details>
 
 <details open>
-<summary><b>☁️ DevOps & Cloud</b></summary>
+<summary><b> DevOps & Cloud</b></summary>
 <br>
 
 <p align="center">
@@ -120,7 +120,7 @@
 </details>
 
 <details open>
-<summary><b>💾 Databases</b></summary>
+<summary><b> Databases</b></summary>
 <br>
 
 <p align="center">
@@ -135,13 +135,13 @@
 
 ---
 
-## 💼 Core Competencies
+## Core Competencies
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Machine Learning & Deep Learning
+### Machine Learning & Deep Learning
 ```yaml
 Architectures:
   - Neural Networks (CNNs, RNNs, Transformers)
@@ -155,7 +155,7 @@ Techniques:
   - Ensemble Methods
 ```
 
-### 💬 Natural Language Processing
+### Natural Language Processing
 ```yaml
 Expertise:
   - Large Language Models (LLMs)
@@ -169,7 +169,7 @@ Expertise:
 </td>
 <td width="50%" valign="top">
 
-### 👁️ Computer Vision
+### Computer Vision
 ```yaml
 Applications:
   - Object Detection & Tracking
@@ -180,7 +180,7 @@ Applications:
   - OCR & Document Understanding
 ```
 
-### 🚀 MLOps & Deployment
+### MLOps & Deployment
 ```yaml
 Pipeline:
   - Model Versioning & Registry
@@ -197,11 +197,11 @@ Pipeline:
 
 ---
 
-## 🏆 Professional Journey
+## Professional Journey
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### 📚 Education & Training
+### Education & Training
 
 ```diff
 + Odoo ERP Training | AI Integration & Financial Workflows
@@ -213,7 +213,7 @@ Pipeline:
   Intensive program in AI fundamentals and advanced NLP techniques
 ```
 
-### 🎯 Certifications & Achievements
+### Certifications & Achievements
 
 - ✅ **AI & Machine Learning Professional Certifications**
 - ✅ **Deep Learning Specialization**
@@ -223,7 +223,7 @@ Pipeline:
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ghreeb1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
@@ -236,19 +236,19 @@ Pipeline:
 
 ---
 
-## 🎨 Current Focus
+## Current Focus
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
-🔭 **Building:** Advanced RAG systems for enterprise applications
+**Building:** Advanced RAG systems for enterprise applications
 
-🌱 **Learning:** Latest developments in LLM fine-tuning and optimization
+**Learning:** Latest developments in LLM fine-tuning and optimization
 
-👯 **Collaborating on:** Open-source AI/ML projects
+**Collaborating on:** Open-source AI/ML projects
 
-💡 **Exploring:** Multimodal AI and vision-language models
+**Exploring:** Multimodal AI and vision-language models
 
-📝 **Writing:** Technical articles on AI implementation best practices
+**Writing:** Technical articles on AI implementation best practices
 
 <br clear="right"/>
 
@@ -261,10 +261,10 @@ Pipeline:
 
 | Project | Tech Stack | Description |
 |:--|:--|:--|
-| ⚕️ **Memorixal – Healthcare Assistant** | FastAPI • LangChain • Docker • AWS | AI-powered assistant that helps caregivers monitor patients through **real-time dashboards** and **interactive storytelling**. |
-| 🎨 **AI Anime Story Generator** | FastAPI • OpenAI API • Stable Diffusion | Generates **anime-style stories and visuals** using multimodal generative AI. Features a modular backend/frontend structure. |
-| 💬 **RAG Personas Chat** | FastAPI • FAISS • LangChain • OpenAI | Persona-based chatbot combining **document retrieval** with **LLM-driven dialogue** for dynamic, personality-aware responses. |
-| 👁️ **Eye Disease Classification** | TensorFlow • OpenCV • Flask | Deep learning model for detecting and classifying **eye diseases** from medical images. Includes a simple Flask web interface. |
+| **Memorixal – Healthcare Assistant** | FastAPI • LangChain • Docker • AWS | AI-powered assistant that helps caregivers monitor patients through **real-time dashboards** and **interactive storytelling**. |
+| **AI Anime Story Generator** | FastAPI • OpenAI API • Stable Diffusion | Generates **anime-style stories and visuals** using multimodal generative AI. Features a modular backend/frontend structure. |
+| **RAG Personas Chat** | FastAPI • FAISS • LangChain • OpenAI | Persona-based chatbot combining **document retrieval** with **LLM-driven dialogue** for dynamic, personality-aware responses. |
+| **Eye Disease Classification** | TensorFlow • OpenCV • Flask | Deep learning model for detecting and classifying **eye diseases** from medical images. Includes a simple Flask web interface. |
 
 
 </div>
