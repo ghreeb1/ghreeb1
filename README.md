@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Mohamed Khaled
+# HI I'm Mohamed
 
 ### AI & Machine Learning Specialist
 
