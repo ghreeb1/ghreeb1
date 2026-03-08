@@ -1,194 +1,166 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20AI%20World&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</p>
-
----
-
 <div align="center">
 
-# HI I'm Mohamed
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:00ff9d,100:0a0a0f&height=200&section=header&text=MOHAMED%20KHALED&fontSize=50&fontColor=00ff9d&animation=fadeIn&fontAlignY=40&desc=AI%20ENGINEER%20%2F%2F%20MACHINE%20INTELLIGENCE%20ARCHITECT&descSize=16&descAlignY=62&descColor=00bfff"/>
 
-### AI & Machine Learning Specialist
+</div>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Generative+AI+%7C+LLMs+%7C+RAG+Systems;Natural+Language+Processing;Computer+Vision+%26+Deep+Learning;MLOps+%26+Production+Deployment&font=Fira+Code&center=true&width=600&height=50&color=00D9FF&vCenter=true&pause=1000&size=20"/>
+<!-- Status Bar -->
+<div align="center">
+
+```
+◈ STATUS: ONLINE  ◈ SYSTEM: OPERATIONAL  ◈ BUILDING: NEXT-GEN AI  ◈
+```
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-<img align="right" alt="AI Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=800&color=00FF9D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+INITIALIZING+AI+SYSTEMS...;%3E+LOADING+%5B+LLMs+%7C+RAG+%7C+Computer+Vision+%7C+NLP+%5D;%3E+ALL+SYSTEMS+NOMINAL.+READY+TO+BUILD.)](https://git.io/typing-svg)
 
-🔬 **AI & Machine Learning Engineer** passionate about creating intelligent systems that transform ideas into reality
+</div>
 
-**Specializing in:**
-- Generative AI & Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- Natural Language Processing
-- Computer Vision & Deep Learning
+---
 
-⚡ **Building:** Scalable AI pipelines, conversational agents, and production-ready ML solutions
+## `> WHOAMI`
 
-🌟 **Mission:** Bridging the gap between cutting-edge AI research and real-world applications
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+```yaml
+name:     Mohamed Khaled
+role:     AI Engineer
+location: Egypt 🌍
+focus:    [Generative AI, LLMs, RAG Systems]
+status:   Building the future, one model at a time
+
+core_mission: >
+  Bridging cutting-edge AI research
+  and real-world production systems.
+  
+currently:
+  - building:   Advanced RAG pipelines
+  - learning:   LLM fine-tuning & optimization
+  - exploring:  Multimodal vision-language models
+  - writing:    AI implementation best practices
+```
 
 <br clear="right"/>
 
 ---
 
-## Connect With Me
+## `> CONNECT --all`
 
-<p align="center">
-  <a href="mailto:qq11gharipqq11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-khaled-3a9021263">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
-  </a>
-  <a href="https://kaggle.com/mohamed15320">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&labelColor=20BEFF"/>
-  </a>
-  <a href="https://github.com/ghreeb1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghreeb1&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-</p>
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:qq11gharipqq11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://www.linkedin.com/in/mohamed-khaled-3a9021263)
+[![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&labelColor=0a0a0f)](https://kaggle.com/mohamed15320)
+[![GitHub](https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0f)](https://github.com/ghreeb1)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ghreeb1&color=00ff9d&style=for-the-badge&label=PROFILE+SCANS)
+
+</div>
 
 ---
 
-## 🛠️ Technology Arsenal
+## `> TECH_STACK --scan`
 
-<details open>
-<summary><b> AI & Machine Learning</b></summary>
-<br>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-</p>
+### ◈ AI / ML CORE ◈
 
-</details>
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HUGGING_FACE-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00ff9d)
+![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-<details open>
-<summary><b> Data Science & Analysis</b></summary>
-<br>
+### ◈ DATA SYSTEMS ◈
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-</p>
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/CHROMADB-FF6C37?style=for-the-badge&logoColor=white)
 
-</details>
+### ◈ BACKEND / INFRA ◈
 
-<details open>
-<summary><b> Backend & Web Frameworks</b></summary>
-<br>
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=gradio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
-</details>
-
-<details open>
-<summary><b> DevOps & Cloud</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-</details>
-
-<details open>
-<summary><b> Databases</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6C37?style=for-the-badge&logoColor=white"/>
-</p>
-
-</details>
+</div>
 
 ---
 
-## Core Competencies
+## `> COMPETENCIES --deep-scan`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Machine Learning & Deep Learning
-```yaml
-Architectures:
-  - Neural Networks (CNNs, RNNs, Transformers)
-  - Generative Adversarial Networks (GANs)
-  - Autoencoders & VAEs
-  
-Techniques:
-  - Transfer Learning & Fine-tuning
-  - Hyperparameter Optimization
-  - Model Compression & Quantization
-  - Ensemble Methods
+### ⟦ NEURAL ARCHITECTURES ⟧
+```python
+models = {
+    "transformers":  ["BERT", "GPT", "T5", "LLaMA"],
+    "vision":        ["CNNs", "ViT", "YOLO", "U-Net"],
+    "generative":    ["GANs", "VAEs", "Diffusion"],
+    "techniques":    [
+        "transfer_learning",
+        "fine_tuning",
+        "quantization",
+        "LoRA / QLoRA"
+    ]
+}
 ```
 
-### Natural Language Processing
-```yaml
-Expertise:
-  - Large Language Models (LLMs)
-  - Prompt Engineering & LLM Ops
-  - RAG Systems & Vector Databases
-  - Text Classification & NER
-  - Sentiment Analysis
-  - Chatbots & Conversational AI
+### ⟦ NLP / LLM OPS ⟧
+```python
+nlp_stack = {
+    "llm_ops":     ["Prompt Engineering", "LLMOps"],
+    "rag":         ["FAISS", "ChromaDB", "Pinecone"],
+    "tasks":       ["NER", "Classification",
+                    "Summarization", "Q&A"],
+    "agents":      ["LangChain", "AutoGPT Patterns"],
+    "interfaces":  ["Chatbots", "Conversational AI"]
+}
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### Computer Vision
-```yaml
-Applications:
-  - Object Detection & Tracking
-  - Image Classification
-  - Semantic Segmentation
-  - Medical Image Analysis
-  - Real-time Video Processing
-  - OCR & Document Understanding
+### ⟦ COMPUTER VISION ⟧
+```python
+cv_expertise = {
+    "detection":   ["YOLO", "RCNN", "SSD"],
+    "tasks":       ["Segmentation", "Tracking",
+                    "OCR", "Medical Imaging"],
+    "realtime":    ["Video Processing",
+                    "Edge Deployment"],
+    "tools":       ["OpenCV", "Albumentations",
+                    "Roboflow"]
+}
 ```
 
-### MLOps & Deployment
-```yaml
-Pipeline:
-  - Model Versioning & Registry
-  - CI/CD for ML Models
-  - Containerization (Docker)
-  - API Development & Deployment
-  - Model Monitoring & Logging
-  - A/B Testing & Experimentation
+### ⟦ MLOPS PIPELINE ⟧
+```python
+mlops = {
+    "containers":  ["Docker", "Docker Compose"],
+    "cloud":       ["AWS EC2", "S3", "Lambda"],
+    "api":         ["FastAPI", "REST", "WebSockets"],
+    "monitoring":  ["Logging", "Model Drift",
+                    "A/B Testing"],
+    "versioning":  ["Git", "DVC", "MLflow"]
+}
 ```
 
 </td>
@@ -197,98 +169,61 @@ Pipeline:
 
 ---
 
-## Professional Journey
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-### Education & Training
-
-```diff
-+ Odoo ERP Training | AI Integration & Financial Workflows
-  @ 2024 – 2025
-  Focus: Enterprise AI automation and intelligent business processes
-  
-+ NTI Summer Internship | AI & Natural Language Processing
-  @ Summer 2022
-  Intensive program in AI fundamentals and advanced NLP techniques
-```
-
-### Certifications & Achievements
-
-- ✅ **AI & Machine Learning Professional Certifications**
-- ✅ **Deep Learning Specialization**
-- ✅ **Kaggle Competitions Contributor**
-- ✅ **Open Source AI/ML Projects Contributor**
-- ✅ **Published Research in AI Applications**
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ghreeb1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghreeb1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghreeb1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</p>
-
----
-
-## Current Focus
-
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
-
-**Building:** Advanced RAG systems for enterprise applications
-
-**Learning:** Latest developments in LLM fine-tuning and optimization
-
-**Collaborating on:** Open-source AI/ML projects
-
-**Exploring:** Multimodal AI and vision-language models
-
-**Writing:** Technical articles on AI implementation best practices
-
-<br clear="right"/>
-
----
-
-## 💻 Sample Projects Showcase
+## `> PROJECT_MATRIX --classified`
 
 <div align="center">
 
-
-| Project | Tech Stack | Description |
-|:--|:--|:--|
-| **Memorixal – Healthcare Assistant** | FastAPI • LangChain • Docker • AWS | AI-powered assistant that helps caregivers monitor patients through **real-time dashboards** and **interactive storytelling**. |
-| **AI Anime Story Generator** | FastAPI • OpenAI API • Stable Diffusion | Generates **anime-style stories and visuals** using multimodal generative AI. Features a modular backend/frontend structure. |
-| **RAG Personas Chat** | FastAPI • FAISS • LangChain • OpenAI | Persona-based chatbot combining **document retrieval** with **LLM-driven dialogue** for dynamic, personality-aware responses. |
-| **Eye Disease Classification** | TensorFlow • OpenCV • Flask | Deep learning model for detecting and classifying **eye diseases** from medical images. Includes a simple Flask web interface. |
-
+| `ID` | PROJECT | STACK | INTEL |
+|:---:|:---|:---|:---|
+| `[01]` | **⬡ MEMORIXAL** — Healthcare AI Assistant | `FastAPI` `LangChain` `Docker` `AWS` | Real-time caregiver dashboards + interactive patient storytelling engine |
+| `[02]` | **⬡ ANIME STORY GEN** — Multimodal Generator | `FastAPI` `OpenAI API` `Stable Diffusion` | Generates anime-style stories & visuals using multimodal generative AI |
+| `[03]` | **⬡ RAG PERSONAS** — Persona Chatbot System | `FastAPI` `FAISS` `LangChain` `OpenAI` | Document retrieval + LLM dialogue for personality-aware responses |
+| `[04]` | **⬡ EYE DISEASE CLASS** — Medical CV System | `TensorFlow` `OpenCV` `Flask` | Deep learning classifier for eye disease detection from medical images |
 
 </div>
 
 ---
 
-## 🌟 Featured Skills
+## `> GITHUB --stats`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,git,mysql,postgres,fastapi,django,flask&theme=dark"/>
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ghreeb1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff9d&icon_color=00bfff&text_color=c9d1d9&ring_color=00ff9d"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghreeb1&theme=dark&hide_border=true&background=0D1117&ring=00ff9d&fire=00bfff&currStreakLabel=00ff9d&sideNums=ffffff&sideLabels=888888"/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghreeb1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff9d&text_color=c9d1d9"/>
+
+</div>
+
+---
+
+## `> TRAINING_LOG`
+
+```diff
++ [2024–2025] Odoo ERP Training
+  @ AI Integration & Financial Workflows
+  >> Enterprise AI automation and intelligent business processes
+
++ [Summer 2022] NTI Summer Internship
+  @ AI & Natural Language Processing
+  >> Intensive program: AI fundamentals + advanced NLP techniques
+
++ [ONGOING] Self-Directed Research
+  @ LLM Fine-tuning • Multimodal AI • Production MLOps
+  >> Kaggle competitions • Open-source contributions • Published AI research
+```
 
 ---
 
 <div align="center">
 
-## 💭 Philosophy
+```
+╔══════════════════════════════════════════════════════════╗
+║  "Innovation distinguishes between a leader and a        ║
+║   follower."  — Building AI that creates real impact.    ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-> *"Innovation distinguishes between a leader and a follower."*
-> 
-> **Building intelligent systems that create meaningful impact**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-### ⚡ Let's Build the Future of AI Together
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:00ff9d,100:0a0a0f&height=120&section=footer&text=LET'S+BUILD+THE+FUTURE&fontSize=24&fontColor=00ff9d&animation=fadeIn"/>
 
 </div>
