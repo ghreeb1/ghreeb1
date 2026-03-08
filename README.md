@@ -30,7 +30,7 @@
 ```yaml
 name:     Mohamed Khaled
 role:     AI Engineer
-location: Egypt 🌍
+location: Egypt 
 focus:    [Generative AI, LLMs, RAG Systems]
 status:   Building the future, one model at a time
 
