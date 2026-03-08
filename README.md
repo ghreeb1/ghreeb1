@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20AI%20World&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</p>
+
+---
+
 <div align="center">
 
 # HI I'm Mohamed
@@ -7,12 +13,6 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Generative+AI+%7C+LLMs+%7C+RAG+Systems;Natural+Language+Processing;Computer+Vision+%26+Deep+Learning;MLOps+%26+Production+Deployment&font=Fira+Code&center=true&width=600&height=50&color=00D9FF&vCenter=true&pause=1000&size=20"/>
 
 </div>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20AI%20World&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</p>
 
 ---
 
