@@ -175,10 +175,10 @@ mlops = {
 
 | `ID` | PROJECT | STACK | INTEL |
 |:---:|:---|:---|:---|
-| `[01]` | **⬡ MEMORIXAL** — Healthcare AI Assistant | `FastAPI` `LangChain` `Docker` `AWS` | Real-time caregiver dashboards + interactive patient storytelling engine |
-| `[02]` | **⬡ ANIME STORY GEN** — Multimodal Generator | `FastAPI` `OpenAI API` `Stable Diffusion` | Generates anime-style stories & visuals using multimodal generative AI |
-| `[03]` | **⬡ RAG PERSONAS** — Persona Chatbot System | `FastAPI` `FAISS` `LangChain` `OpenAI` | Document retrieval + LLM dialogue for personality-aware responses |
-| `[04]` | **⬡ EYE DISEASE CLASS** — Medical CV System | `TensorFlow` `OpenCV` `Flask` | Deep learning classifier for eye disease detection from medical images |
+| `[01]` | ** MEMORIXAL** — Healthcare AI Assistant | `FastAPI` `LangChain` `Docker` `AWS` | Real-time caregiver dashboards + interactive patient storytelling engine |
+| `[02]` | ** ANIME STORY GEN** — Multimodal Generator | `FastAPI` `OpenAI API` `Stable Diffusion` | Generates anime-style stories & visuals using multimodal generative AI |
+| `[03]` | ** RAG PERSONAS** — Persona Chatbot System | `FastAPI` `FAISS` `LangChain` `OpenAI` | Document retrieval + LLM dialogue for personality-aware responses |
+| `[04]` | ** EYE DISEASE CLASS** — Medical CV System | `TensorFlow` `OpenCV` `Flask` | Deep learning classifier for eye disease detection from medical images |
 
 </div>
 
@@ -195,23 +195,7 @@ mlops = {
 
 </div>
 
----
 
-## `> TRAINING_LOG`
-
-```diff
-+ [2024–2025] Odoo ERP Training
-  @ AI Integration & Financial Workflows
-  >> Enterprise AI automation and intelligent business processes
-
-+ [Summer 2022] NTI Summer Internship
-  @ AI & Natural Language Processing
-  >> Intensive program: AI fundamentals + advanced NLP techniques
-
-+ [ONGOING] Self-Directed Research
-  @ LLM Fine-tuning • Multimodal AI • Production MLOps
-  >> Kaggle competitions • Open-source contributions • Published AI research
-```
 
 ---
 
