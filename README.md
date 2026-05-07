@@ -68,7 +68,7 @@ currently:
 
 <div align="center">
 
-### ◈ AI / ML CORE ◈
+###  AI / ML CORE 
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -79,7 +79,7 @@ currently:
 ![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00ff9d)
 ![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### ◈ DATA SYSTEMS ◈
+###  DATA SYSTEMS 
 
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -87,7 +87,7 @@ currently:
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/CHROMADB-FF6C37?style=for-the-badge&logoColor=white)
 
-### ◈ BACKEND / INFRA ◈
+###  BACKEND / INFRA 
 
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
